@@ -12,6 +12,7 @@
 
 ## 📌 Projects
 - Mulberry Leaf Yeild Prediction
+- Credit Card Fraud Detection AI Model
 - Home Automation with ESP32
 - Parkinson's Wearable Device
 
