@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Sumit
 
-<!--
-**SumitSat/SumitSat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics Engineering Student  
+💻 Cybersecurity & AI Enthusiast  
+🚀 Building cool projects with Python & ESP32  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- Python
+- Data Processing
+- AI / ML
+- IoT (ESP32)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Mulberry Leaf Yeild Prediction
+- Home Automation with ESP32
+- Parkinson's Wearable Device
+
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/sumit-satpute-21-12-2004-ss
+- Email: satputesumit02@gmail.com
